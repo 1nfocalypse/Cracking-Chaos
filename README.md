@@ -39,6 +39,7 @@ Ideally, it should be useful to:
 - Engineers who want to thoroughly understand the PRNGs they're using, or implement them themselves.
 - Hackers or auditors interested in finding (and exploiting) weak PRNGs.
 - Students seeking to learn about Computer Science, applied mathematics, or cybersecurity.
+- Educators seeking to teach about PRNGs
   
 ## Contents
 | Section | Description |
