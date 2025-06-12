@@ -53,7 +53,7 @@ Ideally, it should be useful to:
 | LCG.py | Implements ranqd1 from numerical recipes, and fully recovers it via Marsaglia's Theorem. Also visualizes Marsaglia's Theorem in 3D. |
 | LFSR.py | Implements an 8 bit Linear Feedback Shift Register, and shows inversion of it via Berlekamp-Massey. |
 | MT19937.py | Implements MT19937, the most common variant of the Mersenne Twister, and inverts it by inverse tempering and state cloning. |
-| philox.py | Implements Philox4x32-10, the most common counter-based PRNG, in use by cuRAND, Intel, and C++26. |
+| Philox.py | Implements Philox4x32-10, the most common counter-based PRNG, in use by cuRAND, Intel, and C++26. |
 | RC4.py | Implements RC4, and showcases detection via the second byte bias towards 0. |
 
 ## Further Reading and References
