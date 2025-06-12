@@ -16,7 +16,7 @@
   By <a href="https://github.com/1nfocalypse">1nfocalypse</a>
 </p>
 
-## What is this Project?
+## What is this project?
 *Cracking Chaos* is a survey of PRNGs, including a paper and several implemented demos. It is intended to showcase not only the different types of PRNGs, but also how they work, how they should be used, and, in some cases, how they fail. While not a completely comprehensive reference work, Cracking Chaos shows off a wide variety of generators, ranging from
 Linear Congruential Generators to the infamous backdoored DUAL_EC_DRBG. As an additional disclaimer, there are no claims made to the security of the generators implemented here. All code provided is for educational purposes only. Use at your own risk.
 
