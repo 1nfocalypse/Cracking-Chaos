@@ -20,7 +20,7 @@
 *Cracking Chaos* is a survey of PRNGs, including a paper and several implemented demos. It is intended to showcase not only the different types of PRNGs, but also how they work, how they should be used, and, in some cases, how they fail. While not a completely comprehensive reference work, Cracking Chaos shows off a wide variety of generators, ranging from
 Linear Congruential Generators to the infamous backdoored DUAL_EC_DRBG. As an additional disclaimer, there are no claims made to the security of the generators implemented here. All code provided is for educational purposes only. Use at your own risk.
 
-[Read the paper here!](./Cracking-Chaos-Making-Using-and-Breaking-PRNGs.pdf)
+[Read the paper here!](./Cracking_Chaos__Making__Using__and_Breaking_PRNGs.pdf)
 
 ## Highlights
 - 14 page paper as a theoretical survey
@@ -45,7 +45,7 @@ Ideally, it should be useful to:
 ## Contents
 | Section | Description |
 |---------|-------------|
-| [Paper](./Cracking-Chaos-Making-Using-and-Breaking-PRNGs.pdf) | Full paper (14 pages) |
+| [Paper](./Cracking_Chaos__Making__Using__and_Breaking_PRNGs.pdf) | Full paper (14 pages) |
 | BBS.py | Implements Blum-Blum-Shub-4096 from scratch, including prime generation via Miller-Rabin testing. |
 | ChaCha20.py | Implements Bernstein's original ChaCha20 variant. |
 | CTRMag.py | Implements the Soviet Magma block cipher in CTR mode. |
@@ -58,4 +58,4 @@ Ideally, it should be useful to:
 | RC4.py | Implements RC4, and showcases detection via the second byte bias towards 0. |
 
 ## Further Reading and References
-A full bibliography can be found within the [paper](./Cracking-Chaos-Making-Using-and-Breaking-PRNGs.pdf).
+A full bibliography can be found within the [paper](./Cracking_Chaos__Making__Using__and_Breaking_PRNGs.pdf).
