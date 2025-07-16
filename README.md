@@ -34,7 +34,7 @@ Linear Congruential Generators to the infamous backdoored DUAL_EC_DRBG. As an ad
 
 ## Who is this for?
 This project was originally developed for DEFCON 33's Cryptography and Privacy Village, presented as "Cracking Chaos: Making, Using, and Breaking PRNGs". It has been made completely public as both a reference
-for attendees and as an educational tool for the wider public. When made public, the recording of the talk will also be linked here.
+for attendees and as an educational tool. When posted, the recording of the talk will also be linked here.
 
 Ideally, it should be useful to:
 - Engineers who want to thoroughly understand the PRNGs they're using, or implement them themselves.
